@@ -1,0 +1,16 @@
+.card-body{
+    background-color: wheat;
+    width: 350px;
+    height: 350px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+}
+
+img{
+    padding: 10%;
+    width:70%;
+    height:70%;
+    /* border-radius: 50%; */
+}
